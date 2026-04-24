@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tutorial-Manager-React-Client/static/css/main.d85e5bb8.css",
+    "main.js": "/Tutorial-Manager-React-Client/static/js/main.d855c39a.js",
+    "index.html": "/Tutorial-Manager-React-Client/index.html",
+    "main.d85e5bb8.css.map": "/Tutorial-Manager-React-Client/static/css/main.d85e5bb8.css.map",
+    "main.d855c39a.js.map": "/Tutorial-Manager-React-Client/static/js/main.d855c39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85e5bb8.css",
+    "static/js/main.d855c39a.js"
+  ]
+}

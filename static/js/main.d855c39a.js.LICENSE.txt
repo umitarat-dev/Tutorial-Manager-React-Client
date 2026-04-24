@@ -1,0 +1,83 @@
+/**
+ * @license React
+ * react-dom-client.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-dom.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+//! Bu kisma gerek yok aslinda degistirmek istedigimiz
+
+//! Eger props'tan gelen degerleri her degisimde useState'e
+
+//! Sonradan degisen props degerleri useState'e aktarilmaz.
+
+//! State degiskeninin degeri, 1.render ile initialState
+
+//! Test data for showing in the table (veri çekidikten sonra bu kısım silinecek)
+
+//! aktarmak istersek useEffect hook'unu componentDidUpdate
+
+//! componentDidMount ilk renderdan sonra bir defa çalışır.
+
+//! componentDidMount olduğu için dependency array boş.
+
+//! data'yı havada destructure ediyoruz;
+
+//! doğrudan axios istegini gonderebiliriz
+
+//! gibi kullanabiriz.
+
+//! id'ye göre filtreleyip, map ile update edip yeni bir array olusturduk.
+
+//! modal için kullandığımız component;
+
+//! parametresinin ilk degerini alir. Dolayisiyle bu durumda
+
+//! prop'tan gelen ilk deger state'e aktarilir.
+
+//! put işlemi için id'ye ve güncellenecek verilere ihtiyacımız var.});
+
+//! veriler alt componentten geliyor. Dolayısiyla
