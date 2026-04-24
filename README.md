@@ -17,19 +17,19 @@ A React-based task management client designed to interface with a remote Django 
 
 <div align="center">
   <h3>
-    <a href="https://umitarat-dev.github.io/Tutorial-Manager-React-Client/">
+    <a href="https://umitarat-dev.github.io/Tutorial-Manager-React-Client">
       🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React-Project-Tutorial-FullStack.git">
+    <a href="https://github.com/umitarat-dev/Tutorial-Manager-React-Client.git">
       📂 Repository
     </a>
   </h3>
 </div>
 
 <p align="center">
-  <a href="https://umitarat-dev.github.io/Bootstrap-Education-Landing-Page/">
-    <img src="assets/Task-Tracker.gif" alt="Project-Bootstrap-Single-Page-Website" width="700"/>
+  <a href="https://umitarat-dev.github.io/Tutorial-Manager-React-Client">
+    <img src="assets/Tutorial-Manager.gif" alt="Tutorial-Manager" width="700"/>
   </a>
 </p>
 
@@ -151,10 +151,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/), [Nod
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Tutorial-FullStack.git
+$ git clone https://github.com/umitarat-dev/Tutorial-Manager-React-Client.git
 
 # Navigate into the project folder
-$ cd React-Project-Tutorial-FullStack
+$ cd Tutorial-Manager-React-Client
 
 # Install dependencies
 $ yarn  
